@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yewon GIthub&fontSize=90" />
 
  <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python&logoColor=white"/>
 
