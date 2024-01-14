@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yewon&nbsp;Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=yellow&height=200&section=header&text=Yewon&nbsp;Github&fontSize=90" />
 
  <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=python&logoColor=white"/>
 
